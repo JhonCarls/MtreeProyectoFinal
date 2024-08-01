@@ -1,0 +1,19 @@
+#treeContainer {
+    width: 100%;
+    height: 600px;
+    border: 1px solid #ddd;
+}
+
+.node {
+    stroke: red;
+    stroke-width: 2px;
+    opacity: 0.5;
+}
+
+.leaf {
+    fill: blue;
+}
+
+.directory {
+    fill: none;
+}
